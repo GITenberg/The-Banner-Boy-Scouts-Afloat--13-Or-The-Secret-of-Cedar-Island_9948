@@ -1,11 +1,16 @@
 _repo: The-Banner-Boy-Scouts-Afloat--13-Or-The-Secret-of-Cedar-Island_9948
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Warren, George A.
     gutenberg_agent_id: '3215'
     url: http://www.gutenberg.org/2009/agents/3215
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9948#The-Banner-Boy-Scouts-Afloat--13-Or-The-Secret-of-Cedar-Island
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
